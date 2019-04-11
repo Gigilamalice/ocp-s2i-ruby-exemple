@@ -270,7 +270,7 @@ pre {
 # Within your project directory
 # Commit your changes and push to OpenShift
 
-$ git commit -a -m 'Some commit message V3'
+$ git commit -a -m 'Some commit message V5'
 $ git push</pre>
 
 <p>After pushing changes, you'll need to manually trigger a build if you did not setup a webhook as described above.</p>
